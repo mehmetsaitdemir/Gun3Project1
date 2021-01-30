@@ -6,5 +6,8 @@ public class harikaTest {
         // seni gördüğüm güne ....
 
         //ssllasmdşaisd
+
+
+        //daha fazla şımarma
     }
 }
